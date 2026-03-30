@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # UIGen
 
 AI-powered React component generator with live preview.
@@ -65,3 +66,7 @@ Open [http://localhost:3000](http://localhost:3000)
 - Prisma with SQLite
 - Anthropic Claude AI
 - Vercel AI SDK
+=======
+# uigen
+Generate UI from Claude
+>>>>>>> ca6afa2c289c6086326e622e8ec19f2044c17cdb
